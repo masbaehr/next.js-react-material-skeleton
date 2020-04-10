@@ -1,0 +1,24 @@
+{
+  "name": "next-react-mui-template",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "set NODE_ENV=development&&next",
+    "build": "next build",
+    "start": "next start -p 8080"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@material-ui/core": "^4.9.9",
+    "@material-ui/icons": "^4.9.1",
+    "dangerously-set-html-content": "^1.0.3",
+    "isomorphic-unfetch": "^3.0.0",
+    "next": "^9.3.4",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "react-notifications-component": "^2.4.0"
+  }
+}
